@@ -1,0 +1,8 @@
+2026-04-26 18:55:11,207 - INFO - Started scanning file: sample.log
+2026-04-26 18:55:11,207 - ERROR - File not found: sample.log
+2026-04-26 18:58:48,418 - INFO - Started scanning file: sample.log
+2026-04-26 19:01:52,929 - INFO - Started scanning file: sample.log
+2026-04-26 19:01:52,949 - INFO - Checked IP: 8.8.8.8 -> Malicious (Mock)
+2026-04-26 19:01:52,949 - INFO - Checked IP: 192.168.1.1 -> Malicious (Mock)
+2026-04-26 19:01:52,949 - INFO - Checked HASH: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 -> Clean (Mock)
+2026-04-26 19:01:52,950 - INFO - Scan completed successfully.

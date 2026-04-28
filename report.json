@@ -1,0 +1,20 @@
+[
+    {
+        "value": "8.8.8.8",
+        "type": "IP",
+        "result": "Malicious (Mock)",
+        "date": "2026-04-26 19:01:52"
+    },
+    {
+        "value": "192.168.1.1",
+        "type": "IP",
+        "result": "Malicious (Mock)",
+        "date": "2026-04-26 19:01:52"
+    },
+    {
+        "value": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "type": "HASH",
+        "result": "Clean (Mock)",
+        "date": "2026-04-26 19:01:52"
+    }
+]
